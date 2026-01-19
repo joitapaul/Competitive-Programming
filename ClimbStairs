@@ -14,7 +14,7 @@ class ClimbStairs {
     public static void main(String[] args) {
         ClimbStairs cs = new ClimbStairs();
 
-        System.out.println("n = 2 → " + cs.climbStairs(2)); // 
+        System.out.println("n = 2 → " + cs.climbStairs(2)); // 2
         System.out.println("n = 3 → " + cs.climbStairs(3)); // 3
         System.out.println("n = 5 → " + cs.climbStairs(5)); // 8
     }

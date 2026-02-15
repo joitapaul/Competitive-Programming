@@ -37,5 +37,4 @@ class LongestPalindrome {
         System.out.println("Input: " + s2);
         System.out.println("Longest Palindrome: " + lp.longestPalindrome(s2));
     }
-  return 0;
 }

@@ -8,7 +8,7 @@ class ClimbStairs {
             first = second;
             second = third;
         }
-        return second;
+        ;
     }
 
     public static void main(String[] args) {

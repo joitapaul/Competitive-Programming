@@ -11,7 +11,7 @@ class BestTimeToBuySellStock {
                 maxProfit = price - minPrice;
             }
         }
-        return maxProfit;
+    ;
     }
 
     public static void main(String[] args) {
